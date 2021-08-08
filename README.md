@@ -17,7 +17,11 @@
 <img src="https://img.shields.io/badge/instagram-ffffff.svg?&style=flat-square&logo=instagram" alt=instagram style="margin-bottom: 5px;" />
   
 ---
+  <div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=handikacatur&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+    
 ![Handika's github stats](https://github-readme-stats.vercel.app/api?username=handikacatur&show_icons=true&theme=synthwave)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  
+  </div>
