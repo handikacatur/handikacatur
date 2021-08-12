@@ -1,6 +1,6 @@
 ### Hi there, Im Handika <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a College Student
 
 - 🌱 I’m currently learn web, automation, datascience, and machine learning
 - 👯 I’m looking to collaborate in open source project, especially using NodeJS stack
