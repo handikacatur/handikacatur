@@ -7,9 +7,9 @@
 - 🥅 2021 Goals: Learn best practices with great Company
 
 ### Languages and Tools:
-<a href="https://github.com/darkun7?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-326994?style=flat-square&logo=Python&logoColor=F7C738"></a>
-<a href="https://github.com/darkun7?tab=repositories&language=javascript" target="_blank"><img alt="JS" src="https://img.shields.io/badge/-js-DFA01C?style=flat-square&logo=Javascript&logoColor=000000"></a>
-<a href="https://github.com/darkun7?tab=repositories&language=Go" target="_blank"><img alt="Go" src="https://img.shields.io/badge/-go-DFA01C?style=flat-square&logo=Go&logoColor=000000"></a>
+<a href="https://github.com/handikacatur?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-326994?style=flat-square&logo=Python&logoColor=F7C738"></a>
+<a href="https://github.com/handikacatur?tab=repositories&language=javascript" target="_blank"><img alt="JS" src="https://img.shields.io/badge/-js-DFA01C?style=flat-square&logo=Javascript&logoColor=000000"></a>
+<a href="https://github.com/handikacatur?tab=repositories&language=Go" target="_blank"><img alt="Go" src="https://img.shields.io/badge/-go-DFA01C?style=flat-square&logo=Go&logoColor=5490f0"></a>
 <br />
 <br />
 
