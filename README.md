@@ -9,7 +9,7 @@
 ### Languages and Tools:
 <a href="https://github.com/handikacatur?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-326994?style=flat-square&logo=Python&logoColor=F7C738"></a>
 <a href="https://github.com/handikacatur?tab=repositories&language=javascript" target="_blank"><img alt="JS" src="https://img.shields.io/badge/-js-DFA01C?style=flat-square&logo=Javascript&logoColor=000000"></a>
-<a href="https://github.com/handiakcatur?tab=repositories&language=go" target="_blank"><img alt="GO" src="https://img.shields.io/badge/-go-6AD7E5?style=flat-square&logo=Go&logoColor=000000"></a>
+<a href="https://github.com/handikacatur?tab=repositories&language=go" target="_blank"><img alt="GO" src="https://img.shields.io/badge/-go-6AD7E5?style=flat-square&logo=Go&logoColor=000000"></a>
 <br />
 <br />
 
