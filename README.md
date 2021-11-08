@@ -3,8 +3,8 @@
 ## I'm a College Student
 
 - 🌱 I’m currently learn web, automation, datascience, and machine learning
-- 👯 I’m looking to collaborate in open source project, especially using NodeJS stack
-- 🥅 2020 Goals: Contribute or create my own open source project
+- 👯 I’m looking to collaborate in open source project, especially using NodeJS & Go stack
+- 🥅 2021 Goals: Learn best practices with great Company
 
 ### Languages and Tools:
 <a href="https://github.com/darkun7?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-326994?style=flat-square&logo=Python&logoColor=F7C738"></a>
