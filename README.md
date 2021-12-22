@@ -3,8 +3,8 @@
 ## I'm a College Student
 
 - 🌱 I’m currently focus on learning backend developer & dev ops
-- 👯 I’m looking to collaborate in open source project, especially using NodeJS & Go stack
-- 🥅 2022 Goal: Learn to design scalable cloud app
+- 📦 I’m looking to collaborate in open source project, especially using NodeJS & Go stack
+- 🎯 2022 Goal: Learn to design scalable cloud app
 
 ### Languages and Tools:
 <a href="https://github.com/handikacatur?tab=repositories&language=go" target="_blank"><img alt="GO" src="https://img.shields.io/badge/-go-6AD7E5?style=flat-square&logo=Go&logoColor=000000"></a>
