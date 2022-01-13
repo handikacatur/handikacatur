@@ -1,6 +1,6 @@
 ### Hi there, Im Handika <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-#### I'm a College Student who want to deep dive into backend engineer and dev ops.
+#### I'm just a Student who want to deep dive into backend engineer and dev ops.
 
 - 🌱 I’m currently focus on learning backend developer & dev ops
 - 📦 I’m looking to collaborate in open source project, especially using NodeJS & Go stack
